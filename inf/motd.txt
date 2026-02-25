@@ -1,0 +1,23 @@
+- 
+-  ___________________________________________
+- < Welcome to NANA, a minimalist IRC server. >
+-  -------------------------------------------
+-                    /
+-            /\/\   /
+-           \   /  /
+-           |  0 >>
+-           |___|
+-     __((_<|   |
+-    (          |    
+-    (__________)    
+-       |      |
+-       |      |           >o)    >o     >o)
+-       /\     /\          (_>    (V<    ( \
+- 
+- Created by:
+-             Jyri Piensalo
+-             Arne Blödorn
+-             Eric Lehtonen
+- 
+- Thank you for using NANA! We hope you have a pleasant day.
+- 
