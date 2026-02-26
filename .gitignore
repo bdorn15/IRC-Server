@@ -6,7 +6,6 @@ temp/
 .obsidian
 *.*bak
 ircserv
-bot
 
 # Prerequisites
 *.d
